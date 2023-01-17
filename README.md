@@ -42,8 +42,8 @@ I'm an indie front-end developer creator building my version of the digital worl
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-  Completedd....
+ <summary><h3>👨‍💻 More about me</h3></summary>
+  Loading...
 
 [website]: #
 [youtube]: #
