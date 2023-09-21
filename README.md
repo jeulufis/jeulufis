@@ -1,4 +1,5 @@
-![https://github.com/itodev-source](https://raw.githubusercontent.com/itodev-source/itodev-source/master/Banner.png)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hy%20There%20👋&text2=💖%20Open%20LinkedIn&width=1000&height=300)](https://www.linkedin.com/in/juan-eulufi/)
+
 
 # 🇨🇱 Juan Eulufi Salazar
 
@@ -7,35 +8,25 @@
 
 I'm an indie front-end developer creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.I am full of attitude to be able to work as a team and to be able to share my knowledge in each project, challenging obstacles, solving problems and learning from each new experience.
 
-### 🧰 Languages and Tools
+### Me
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-<br />
+- 💯 Full-Stack Developer: I thrive in both front-end and back-end development, creating web apps that tackle real-world challenges.
+- ⏱️ Quality Time: I cherish moments with loved ones, be it family, friends, or colleagues, as building meaningful connections is my priority.
+- 🤝 Eternal Learner: I embrace evolving technology, committed to staying current with trends and tools, continually expanding my skill set.
+- 🏄 Beach Enthusiast: The beach is my sanctuary, where sand, waves, and freedom unite. It inspires me and brings boundless joy.
 
+Let's Chat: Reach out for discussions on coding, life's adventures, or anything in between! 😊🌴🌊
 
-### 📚 Comming Soon
+### 🧰 Languages
 
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<br />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,emotion,sass,bootstrap,styledcomponents,tailwind,express,nodejs,mongodb,mysql,java,spring" />
 
-#
+### 🔧 Tools
 
-<details>
- <summary><h3>👨‍💻 More about me</h3></summary>
-  Loading...
+<img src="https://skillicons.dev/icons?i=vite,figma,bash,git,github, discord,vscode" />
 
-[website]: #
-[youtube]: #
+### 🌟 Social 
+
+<img src="https://skillicons.dev/icons?i=linkedin,twitter" />
+
 
