@@ -30,15 +30,6 @@ I'm an indie front-end developer creator building my version of the digital worl
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <br />
 
-# 
-
-### 📊 Stats
-
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=itodev-source&show_icons=true&theme=dark)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
 
 <details>
