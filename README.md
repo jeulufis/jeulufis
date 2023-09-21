@@ -8,6 +8,10 @@
 
 I'm an indie front-end developer creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.I am full of attitude to be able to work as a team and to be able to share my knowledge in each project, challenging obstacles, solving problems and learning from each new experience.
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 ### Me
 
 - 💯 Full-Stack Developer: I thrive in both front-end and back-end development, creating web apps that tackle real-world challenges.
@@ -16,6 +20,8 @@ I'm an indie front-end developer creator building my version of the digital worl
 - 🏄 Beach Enthusiast: The beach is my sanctuary, where sand, waves, and freedom unite. It inspires me and brings boundless joy.
 
 Let's Chat: Reach out for discussions on coding, life's adventures, or anything in between! 😊🌴🌊
+
+
 
 ### 🧰 Languages
 
