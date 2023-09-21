@@ -1,10 +1,10 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hy%20There%20👋&text2=💖%20Open%20LinkedIn&width=1000&height=300)](https://www.linkedin.com/in/juan-eulufi/)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20There%20👋&text2=💖%20Open%20LinkedIn&width=1000&height=300)](https://www.linkedin.com/in/juan-eulufi/)
 
 
 # 🇨🇱 Juan Eulufi Salazar
 
 
-**`Digital Craftsman (Frontend-Developer)`**
+**`Digital Craftsman (FullStack-Developer)`**
 
 I'm an indie front-end developer creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.I am full of attitude to be able to work as a team and to be able to share my knowledge in each project, challenging obstacles, solving problems and learning from each new experience.
 
