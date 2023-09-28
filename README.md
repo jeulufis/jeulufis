@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20There%20👋&text2=💖%20Open%20LinkedIn&width=1000&height=300)](https://www.linkedin.com/in/juan-eulufi/)
 
 
-# 🇨🇱 Juan Eulufi Salazar
+# 🇨🇱 Juan Gerardo Eulufi Salazar
 
 
 **`Digital Craftsman (FullStack-Developer)`**
