@@ -10,9 +10,9 @@ Me gusta contribuir al desarrollo open-source en proyectos de 290k de Starred �
 ***Sobre mí ....***
 
 ✔ 🎓 Titulado en Ingeniería Informática y Análisis de Programación 😊<br>
-✔ 🔭 Desarrollador full-stack<br>
 ✔ 🌱 Aprendo de todo, no me caso con ningún framework o librería<br>
-✔ 🧩 Dato curioso: Me gusta escribir 😉<br>
+✔ 🧩 Dato curioso: Me gusta escribir documentación😉<br>
+✔ 🔭 Desarrollador full-stack web.<br>
 ✔ 📫 Cómo ponerse en contacto conmigo: juan.eulufi.sa@gmail.com<br>
 ✔ 🎨 Portafolio: https://jeulufis.vercel.app/
 
