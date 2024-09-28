@@ -22,7 +22,7 @@ Me gusta contribuir al desarrollo open-source y desarrollar proyectos personales
 
 <!-- BLOG-POST-LIST:START -->
 
-✔ [01 |🍦Crear un Nuevo Proyecto en React !](https://react-universal.vercel.app/blog/2024-post/create-new-project-in-react)<br>
+✔ [01 | 🍦Crear un Nuevo Proyecto en React !](https://react-universal.vercel.app/blog/2024-post/create-new-project-in-react)<br>
 ✔ [02 | 💯 Tu Primer Componente !](https://react-universal.vercel.app/blog/2024-post/your-first-component)<br>
 ✔ [03 | 📖 Importando y Exportando Componentes !](https://react-universal.vercel.app/blog/2024-post/importing-and-exporting-components)<br>
 ✔ [04 | 🧩 Escribir Marcado con JSX !](https://react-universal.vercel.app/blog/2024-post/efficient-jsx-for-your-react-components)<br>
