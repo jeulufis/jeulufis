@@ -7,7 +7,7 @@ Me gusta contribuir al desarrollo open-source y desarrollar proyectos personales
 
 <hr>
 
-***Sobre mi ....***
+***Sobre mí ....***
 
 ✔ 🎓 Titulado en Ingeniería Informática y Análisis de Programación 😊<br>
 ✔ 🔭 Desarrollador full-stack<br>
