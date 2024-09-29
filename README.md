@@ -3,8 +3,7 @@
 **`(FullStack-Developer)`**
 
 <samp>
-Me gusta contribuir al desarrollo open-source en proyectos de 290k de Starred ⭐ en Github @roadmap.sh y desarrollar proyectos personales cuando tengo tiempo libre.
-
+Me gusta contribuir al desarrollo open-source, estoy en un proyecto de +290k de Starred ⭐ en Github @roadmap.sh y desarrollo proyectos personales cuando tengo tiempo libre.
 <hr>
 
 ***Sobre mí ....***
