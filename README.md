@@ -4,6 +4,10 @@
 
 <samp>
 Me gusta contribuir al desarrollo open-source, estoy en un proyecto de +290k de Starred ⭐ en Github @roadmap.sh y desarrollo proyectos personales cuando tengo tiempo libre.
+<br>
+<br>
+
+Actualmente estoy cursando Cloud Computing en la Universidad de Santiago de Chile y a través de @Amazon.
 <hr>
 
 ***Sobre mí ....***
