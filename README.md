@@ -14,8 +14,8 @@ Actualmente estoy cursando Cloud Computing en la Universidad de Santiago de Chil
 
 ✔ 🎓 Titulado en Ingeniería Informática y Análisis de Programación 😊<br>
 ✔ 🌱 Aprendo de todo, no me caso con ningún framework o librería<br>
-✔ 🧩 Dato curioso: Me gusta escribir documentación😉<br>
-✔ 🔭 Desarrollador full-stack web.<br>
+✔ 🧩 Dato curioso: Me gusta escribir documentación 😉<br>
+✔ 🔭 Desarrollador full-stack web<br>
 ✔ 📫 Cómo ponerse en contacto conmigo: juan.eulufi.sa@gmail.com<br>
 ✔ 🎨 Portafolio: https://jeulufis.vercel.app/
 
