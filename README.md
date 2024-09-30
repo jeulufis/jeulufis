@@ -30,7 +30,8 @@ Actualmente estoy cursando Cloud Computing en la Universidad de Santiago de Chil
 ✔ [03 | 📖 Importando y Exportando Componentes !](https://react-universal.vercel.app/blog/2024-post/importing-and-exporting-components)<br>
 ✔ [04 | 🧩 Escribir Marcado con JSX !](https://react-universal.vercel.app/blog/2024-post/efficient-jsx-for-your-react-components)<br>
 ✔ [05 | 💛 JavaScript en JSX !](https://react-universal.vercel.app/blog/2024-post/javascript-in-js)<br>
-✔ [06 | 🔜 Pasar Propiedades a Componentes !](https://react-universal.vercel.app/blog/2024-post/props-to-a-components)
+✔ [06 | 🔜 Pasar Propiedades a Componentes !](https://react-universal.vercel.app/blog/2024-post/props-to-a-components)<br>
+✔ [07 | 🎨 Renderizado Condicional !](https://react-universal.vercel.app/blog/2024-post/conditional-rendering)
   
 <!-- BLOG-POST-LIST:END -->
 
