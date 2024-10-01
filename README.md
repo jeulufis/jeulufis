@@ -1,4 +1,4 @@
-# <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> Juan Eulufi Salazar 
+# <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>Juan Gerardo Eulufi Salazar
 
 **`(FullStack-Developer)`**
 
@@ -7,7 +7,7 @@ Me gusta contribuir al desarrollo open-source, estoy en un proyecto de +290k de 
 <br>
 <br>
 
-Actualmente estoy cursando Cloud Computing en la Universidad de Santiago de Chile y a través de @Amazon.
+Actualmente estoy cursando **Cloud Computing** en la [Universidad de Santiago de Chile](https://www.usach.cl/) a través de [@Amazon](https://aws.amazon.com/es/).
 <hr>
 
 ***Sobre mí ....***
@@ -37,7 +37,8 @@ Actualmente estoy cursando Cloud Computing en la Universidad de Santiago de Chil
 
 <hr>
 
-***Certificaciones ....***
+***Certificaciones ....***<br>
+Google, IBM, AWS, Accenture, OpenBootcamp, Desafío Latam, CertiProf y más.
 
 https://www.linkedin.com/in/jeulufis/details/certifications/
 </samp>
