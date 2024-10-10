@@ -7,7 +7,7 @@ Me gusta contribuir al desarrollo open-source, estoy en un proyecto de +290k de 
 <br>
 <br>
 
-Actualmente estoy cursando **Cloud Computing** en la [Universidad de Santiago de Chile](https://www.usach.cl/) a través de [@Amazon](https://aws.amazon.com/es/).
+Actualmente estoy cursando **Cloud Computing** en la [Universidad de Santiago de Chile](https://www.usach.cl/) a través de [Amazon](https://aws.amazon.com/es/).
 <hr>
 
 ***Sobre mí ....***
