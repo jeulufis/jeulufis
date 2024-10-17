@@ -12,7 +12,7 @@ Actualmente estoy cursando **Cloud Computing** en la [Universidad de Santiago de
 
 ***Sobre mí ....***
 
-✔ 🎓 Titulado en Ingeniería Informática y Análisis de Programación 😊<br>
+✔ 🎓 Titulado en **Ingeniería Informática** y Análisis de Programación 😊<br>
 ✔ 🌱 Aprendo de todo, no me caso con ningún framework o librería<br>
 ✔ 🧩 Dato curioso: Me gusta escribir documentación 😉<br>
 ✔ 🔭 Desarrollador full-stack web<br>
@@ -31,7 +31,8 @@ Actualmente estoy cursando **Cloud Computing** en la [Universidad de Santiago de
 ✔ [04 | 🧩 Escribir Marcado con JSX !](https://react-universal.vercel.app/blog/2024-post/efficient-jsx-for-your-react-components)<br>
 ✔ [05 | 💛 JavaScript en JSX !](https://react-universal.vercel.app/blog/2024-post/javascript-in-js)<br>
 ✔ [06 | 🔜 Pasar Propiedades a Componentes !](https://react-universal.vercel.app/blog/2024-post/props-to-a-components)<br>
-✔ [07 | 🎨 Renderizado Condicional !](https://react-universal.vercel.app/blog/2024-post/conditional-rendering)
+✔ [07 | 🎨 Renderizado Condicional !](https://react-universal.vercel.app/blog/2024-post/conditional-rendering)<br>
+✔ [08 | 📃 Listas de representación !](https://react-universal.vercel.app/blog/2024-post/rendering-list)
   
 <!-- BLOG-POST-LIST:END -->
 
