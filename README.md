@@ -40,7 +40,7 @@ Actualmente estoy cursando **Cloud Computing** en la [Universidad de Santiago de
 <hr>
 
 ***Certificaciones ....***<br>
-Google, IBM, AWS, Accenture, OpenBootcamp, Desafío Latam, CertiProf y más.
+Amazon Web Services, Google, IBM, AWS, Accenture, OpenBootcamp, Desafío Latam, CertiProf y más.
 
 https://www.linkedin.com/in/jeulufis/details/certifications/
 </samp>
