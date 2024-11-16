@@ -16,6 +16,7 @@ Actualmente estoy cursando **Cloud Computing** en la [Universidad de Santiago de
 ✔ 🌱 Aprendo de todo, no me caso con ningún framework o librería<br>
 ✔ 🧩 Dato curioso: Me gusta escribir documentación 😉<br>
 ✔ 🔭 Desarrollador full-stack web<br>
+✔ 🌟 Actualmente aprendiendo ruby on rails 💎<br>
 ✔ 📫 Cómo ponerse en contacto conmigo: juan.eulufi.sa@gmail.com<br>
 ✔ 🎨 Portafolio: https://jeulufis.vercel.app/
 
